@@ -1,0 +1,9 @@
+Straight traversal using IteratorProtocol:
+First
+Second
+Third
+
+Reverse traversal using AnyIterator:
+3
+2
+1

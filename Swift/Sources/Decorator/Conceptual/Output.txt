@@ -1,0 +1,5 @@
+Client: I've got a simple component
+Result: ConcreteComponent
+
+Client: Now I've got a decorated component
+Result: ConcreteDecoratorB(ConcreteDecoratorA(ConcreteComponent))
